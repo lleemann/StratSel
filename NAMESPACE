@@ -1,0 +1,24 @@
+exportPattern("^[[:alpha:]]+")
+
+S3method(print,StratSel)
+S3method(predict,StratSel)
+S3method(plot,StratSel)
+S3method(vcov,StratSel)
+S3method(logLik,StratSel)
+S3method(summary,StratSel)
+S3method(getSummary,StratSel)
+S3method(print,summary.StratSel)
+
+import(Formula)
+import(MASS)
+import(mnormt)
+import(pbivnorm)
+import(memisc)
+
+importFrom(memisc, mtable)
+
+
+importFrom("graphics", "plot", "points")
+  importFrom("stats", "binomial", "coef", "glm", "model.matrix",
+             "model.response", "optim", "pnorm", "printCoefmat", "qnorm",
+             "rnorm", "var")
