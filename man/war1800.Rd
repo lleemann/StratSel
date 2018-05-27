@@ -36,7 +36,7 @@ This data set is taken from the package \code{games}.
   \emph{Conflict Management and Peace Science} 15(2):
   163--213.
   
-  	Lucas Leemann. 2014. "Strategy and Sample Selection - A Strategic Selection Estimator", forthcoming in \emph{Political Analysis}.
+  	Lucas Leemann. 2014. "Strategy and Sample Selection - A Strategic Selection Estimator", \emph{Political Analysis} 22: 374-397.
 %%  ~~ possibly secondary sources and usages ~~
 }
 \examples{

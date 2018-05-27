@@ -56,7 +56,7 @@ logLikStratSel(x11, x14, x24, y, beta)
 %% ...
 }
 \references{
-Lucas Leemann. 2013. "Strategy and Sample Selection - A Strategic Selection Estimator", forthcoming in \emph{Political Analysis}.
+  	Lucas Leemann. 2014. "Strategy and Sample Selection - A Strategic Selection Estimator", \emph{Political Analysis} 22: 374-397.
 %% ~put references to the literature/web site here ~
 }
 \author{

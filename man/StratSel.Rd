@@ -70,7 +70,7 @@ StratSel(formula, corr = TRUE, Startval, optim.method = "BFGS", data, ...)
 %% ...
 }
 \references{
-	Lucas Leemann. 2014. "Strategy and Sample Selection - A Strategic Selection Estimator", forthcoming in \emph{Political Analysis}.
+  	Lucas Leemann. 2014. "Strategy and Sample Selection - A Strategic Selection Estimator", \emph{Political Analysis} 22: 374-397.
 	
 		 Curtis S. Signorino.  2003.  "Structure and Uncertainty
   in Discrete Choice Models."  \emph{Political Analysis}
