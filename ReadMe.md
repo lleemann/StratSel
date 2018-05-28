@@ -1,4 +1,5 @@
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/StratSel)](https://cran.r-project.org/package=StratSel)
+[![cranlogs](https://cranlogs.r-pkg.org/badges/grand-total/StratSel)](http://cran.rstudio.com/web/packages/StratSel/index.html)
 
 # R library StratSel
 
