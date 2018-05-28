@@ -1,3 +1,5 @@
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/StratSel)](https://cran.r-project.org/package=StratSel)
+
 # R library StratSel
 
 This package allows users to estimate a strategic selection model as described in [https://doi.org/10.1093/pan/mpt026](https://doi.org/10.1093/pan/mpt026).
