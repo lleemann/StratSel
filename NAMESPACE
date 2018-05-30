@@ -15,7 +15,7 @@ import(mnormt)
 import(pbivnorm)
 import(memisc)
 
-importFrom(memisc, mtable)
+#importFrom(memisc, mtable)
 
 
 importFrom("graphics", "plot", "points")
