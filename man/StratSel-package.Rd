@@ -7,15 +7,7 @@ This package allows to estimate strategic selection models.
 \description{
 This package provides functionality to estimate, summarize, plot, predict, and export strategic selection estimates. It allows researchers to incorporate the strategic nature of the DGP while not constraining the errors to be orthogonal. By relaxing the assumptions, this estimator becomes a blend of an agent error model and a Heckman selection model. 
 }
-\details{
-\tabular{ll}{
-Package: \tab StratSel\cr
-Type: \tab Package\cr
-Version: \tab 0.1\cr
-Date: \tab 2013-10-21\cr
-License: \tab GPL (>= 2) \cr
-}
-}
+
 \author{
 Lucas Leemann \email{lleemann@gmail.com}
 
